@@ -1,6 +1,7 @@
 # Shooter-Game
 A simple shooter game made in python, using Ursina game-engine.
 
+
 Note: You'll need Python 3.11 and Ursina game-engine.
 
 Where to get Python:
@@ -12,6 +13,8 @@ Where to get Ursina:
 cmd -> pip install ursina (recommended) Note: (use this command after you install Python 3.11)
 
 Official site -> https://www.ursinaengine.org/installation.html
+
+To run the game, download all the files in the same folder and run 'main.py'.
 
 Controls:
 - W, A, S, D - movement
