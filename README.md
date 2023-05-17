@@ -5,22 +5,32 @@ Note: You'll need Python 3.11 and Ursina game-engine.
 
 Where to get Python:
 Microsoft Store -> Search 'Python' (Recommended)
+
 Official site -> https://www.python.org/downloads/
 
 Where to get Ursina:
 cmd -> pip install ursina (recommended) Note: (use this command after you install Python 3.11)
+
 Official site -> https://www.ursinaengine.org/installation.html
 
 Controls:
 - W, A, S, D - movement
+
 - Left mouse button - shoot
+
 - Right mouse button - punch the enemies and push them back
+
 - B - Buy Ammo
+
 - H - Buy Health
+
 - Space - Restart When you die
+
+
 Optional (For Dev testing):
-P - Pause (The Player dissapers)
-O - Return after Pausing
+P - Pause
+
+O - Resume after Pausing - Note: Wait a few seconds after resuming! The enemies need to respawn!
 
 
 I'll add more features in future updates. The current version is 0.5.
